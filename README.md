@@ -1,27 +1,58 @@
-Layout: rappi4B
-
-Projeto final do Frontend do curso de Desenvolvimento Web Full Stack da Labenu intitulado de *LabeFood*.
-
-LabeFood
-
-Descrição do Projeto:
-- Site/app de delivery de comida inspirado no Rappi
-
-Status do projeto:
-Fase de teste
-
-Tecnologias utilizadas:
-- JavaScrit - React - HTML - CSS
-
-Pessoas Contribuidoras:
-- Rodrigo Vieira 
-- Sérvulo Silva
-- Pablo Gomes 
-- Matheus Souza
-- Willhan Marques
-
-Link Surge:
+### DEPLOY
 http://labefood-rappi.surge.sh
+
+
+# LabeFood
+
+Projeto final do Frontend do curso de Desenvolvimento Web Full Stack da Labenu, Site/app de delivery de comida inspirado no Rappi
+
+
+## Tecnologias utilizadas
+<img alt="HTML" src="https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E"/>
+<img alt="CSS" src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%yellow"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="React" src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%blue"/>
+
+## Como rodar na sua máquina localmente
+- Faça o fork para atribuir esse repositório a sua conta no github
+- Agora em sua máquina, entre no terminal e faça o clone do repositório
+
+VIA HTTPS
+``` 
+git clone https://github.com/willmarques09/Shaw-labe-food4-1.git
+```
+
+ou VIA SSH
+``` 
+git clone git@github.com:willmarques09/Shaw-labe-food4-1.git
+```
+
+- entre no diretório do projeto
+``` 
+cd Shaw-labe-food4-1
+```
+
+- instale as dependências
+VIA NPM 
+```
+npm i
+ ```
+ ou VIA YARN
+```
+yarn 
+ ```
+
+ - agora rode o projeto localmente
+
+ COM YARN
+ ```
+ yarn run start
+  ```
+
+   COM NPM
+ ```
+ npm run start
+  ```
 
 Imagens:
 
@@ -66,4 +97,11 @@ Perfil
 
 ![image](https://user-images.githubusercontent.com/99182794/169718250-fa78486a-c773-4d3e-a078-069a5f53648e.png)
 
+Pessoas Contribuidoras:
+- Rodrigo Vieira 
+- Sérvulo Silva
+- Pablo Gomes 
+- Matheus Souza
+- Willhan Marques
 
+⌨️ made by [Wiliam](https://github.com/willmarques09) 
